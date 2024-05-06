@@ -5,6 +5,8 @@
 - 💀 Saya Seorang Re-coder
 - 🤓 Saya dan @OT4KK0SON9 adalah orang yang sama
 
+- 🤯 Website, https://dxdzx.blogspot.com
+
 ! 
 <!---
 andixax/andixax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
