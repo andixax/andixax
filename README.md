@@ -1,5 +1,3 @@
-![20240430_143640](https://github.com/andixax/andixax/assets/168948944/70811d89-9d13-44a9-838b-978df8a8d2f7)
-
 - 👋 Hi, I’m @andixax
 - 🌱 Saya sedang belajar bernafas
 - 💀 Saya Seorang Re-coder
@@ -11,8 +9,9 @@
  [Website](https://dxdzx.blogspot.com)
 
  `Youtube`
- [Youtube](https://www.youtube/@andixa-siapa-ya) 
-  [YouTube _](https://www.youtube/@OTKKSON9)
+ [Youtube](https://www.youtube.com/@andixa-siapa-ya) 
+ ##
+[YouTube _](https://www.youtube.com/@OTKKSON9)
 
 ```Disematkan```
 
