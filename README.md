@@ -4,8 +4,13 @@
 - 🌱 Saya sedang belajar bernafas
 - 💀 Saya Seorang Re-coder
 - 🤓 Saya dan @OT4KK0SON9 adalah orang yang sama
+- 😂 Saya saat membuat script di bantu ChatGPT karena tidak terlalu bisa🗣️
 
 - 🤯 Website, https://dxdzx.blogspot.com
+
+- **IP:** [IP](https://github.com/andixax/ip)
+- **Twitter:** [Profil Twitter Anda](https://twitter.com/nama-anda)
+- **Website:** [Website Anda](https://www.nama-anda.com)
 
 ! 
 <!---
