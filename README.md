@@ -12,7 +12,7 @@
  ____
  [Youtube](https://www.youtube.com/@andixa-siapa-ya) 
  
-[YouTube Juga](https://www.youtube.com/@OTKKSON9)
+[YouTube Juga](https://www.youtube.com/@OTKKS0NG)
 ___
 
 ```Disematkan```
