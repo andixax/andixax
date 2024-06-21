@@ -8,8 +8,7 @@
 
 `Website`
 
-- **Website:** [Web saya]
-(https://dxdzx.blogspot.com)
+- [Website](https://dxdzx.blogspot.com)
 
 ```Disematkan```
 
