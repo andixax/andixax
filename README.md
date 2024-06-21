@@ -8,9 +8,11 @@
 
 - 🤯 Website, https://dxdzx.blogspot.com
 
-- **IP:** [IP](https://github.com/andixax/ip)
-- **Twitter:** [Profil Twitter Anda](https://twitter.com/nama-anda)
-- **Website:** [Website Anda](https://www.nama-anda.com)
+```Disematkan```
+
+- **IP-Tracker:** [IP-Tracker](https://github.com/andixax/ip)
+- **NGL Spam:** [NGL-Spam](https://github.com/andixax/)
+- **Cek Khodam:** [Cek Khodam](https://github.com/andixax/khodam-cek)
 
 ! 
 <!---
