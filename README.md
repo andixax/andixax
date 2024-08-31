@@ -3,7 +3,6 @@
 - 💀 Saya Seorang Re-coder
 - 😎 Saya kalo buat script di bantu sama ChatGPT
 - 🤓 Saya dan @OT4KK0SON9 adalah orang yang sama
-- 😂 Saya saat membuat script di bantu ChatGPT karena tidak terlalu bisa🗣️
 
 `Website`
 
